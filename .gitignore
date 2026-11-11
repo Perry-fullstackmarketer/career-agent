@@ -1,0 +1,5 @@
+candidate.md
+applications.jsonl
+.venv/
+__pycache__/
+*.pyc
