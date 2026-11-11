@@ -1,6 +1,6 @@
 ---
 name: career-agent
-description: Prepare job applications in the user's own signed-in browser. Use when the user asks to apply to a job or fill out an application form. Never submits without explicit approval for that specific action.
+description: Use this whenever the user wants to apply for a job, prepare or fill out a job application form, check or track their applications, or do job-search work on a portal such as Amazon Jobs, Workday, Indeed, LinkedIn Jobs or Naukri. Prepares applications from the user's verified candidate.md and never submits without the user typing APPROVE for that action.
 ---
 
 # Career agent

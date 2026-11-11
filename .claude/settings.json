@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "career-agent-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "Perry-fullstackmarketer/career-agent"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "career-agent@career-agent-marketplace": true
+  }
+}
