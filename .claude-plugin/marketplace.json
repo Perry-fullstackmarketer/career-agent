@@ -1,0 +1,16 @@
+{
+  "name": "career-agent-marketplace",
+  "owner": {
+    "name": "Priyansh"
+  },
+  "metadata": {
+    "description": "Supervised career agent for job applications. The user approves every submit."
+  },
+  "plugins": [
+    {
+      "name": "career-agent",
+      "source": "./plugins/career-agent",
+      "description": "Prepare job applications in your own signed-in browser. Fills forms from your verified facts and stops for approval before any submit."
+    }
+  ]
+}

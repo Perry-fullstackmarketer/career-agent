@@ -1,0 +1,8 @@
+{
+  "name": "career-agent",
+  "description": "Supervised job-application agent. Never submits without explicit approval, never handles passwords, OTPs or card numbers, and stops on CAPTCHAs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Priyansh"
+  }
+}
